@@ -1,0 +1,7 @@
+1 El usuario: [elbamg] se conecto 2 veces
+2 El usuario: [erik] se conecto 2 veces
+3 El usuario: [adamar] se conecto 2 veces
+4 El usuario: [tanny] se conecto 2 veces
+5 El usuario: [rodo] se conecto 2 veces
+6 El usuario: [muppet] se conecto 3 veces
+7 El usuario: [ana] se conecto 2 veces

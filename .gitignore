@@ -253,3 +253,5 @@ paket-files/
 *.sln
 *.filters
 C++/CadenasDeStrings/CadenasDeStrings/CadenasDeStrings.vcxproj
+*.vcxproj
+C++/ClasesComoAtributos/ClasesComoAtributos/comp
