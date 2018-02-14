@@ -1,0 +1,10 @@
+Cuenta: 159
+Saldo: 1000
+Nombre: Alexx Gutz
+Tipo: 1
+
+Cuenta: 192
+Saldo: 1000
+RFC: 1232
+Tipo: 1
+

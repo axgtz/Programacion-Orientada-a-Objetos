@@ -1,0 +1,4 @@
+Cuenta: 159
+Saldo: 1000
+Nombre: Alexx Gutz
+Tipo: 1

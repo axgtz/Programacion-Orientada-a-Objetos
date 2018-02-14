@@ -1,0 +1,4 @@
+Cuenta: 885
+Saldo: 123
+RFC: 132312
+Tipo: 1

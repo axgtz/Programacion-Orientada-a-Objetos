@@ -1,0 +1,4 @@
+Cuenta: 565
+Saldo: 1000
+Nombre: Estebanano Parraga
+Tipo: 1

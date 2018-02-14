@@ -1,0 +1,4 @@
+Cuenta: 192
+Saldo: 1000
+RFC: 1232
+Tipo: 1
